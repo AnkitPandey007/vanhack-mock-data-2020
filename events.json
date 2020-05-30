@@ -1,0 +1,103 @@
+{
+  "events": [
+      {
+      "id": 1,
+      "title": "Vancouver Leap",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Vancouver Leap",
+      "img": "https://i.picsum.photos/id/866/400/200.jpg",
+      "type": "Leap",
+      "premiumOnly": false,
+      "date": "07-15-2020",
+      "deadline":"07-10-2020"
+    },
+    {
+      "id": 2,
+      "title": "Montreal MeetUp",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Montreal Meetup",
+      "img": "https://i.picsum.photos/id/867/400/200.jpg",
+      "type": "MeetUp",
+      "premiumOnly": false,
+      "date": "07-25-2020",
+      "deadline":"07-20-2020"
+    },
+    {
+      "id": 3,
+      "title": "VanHack Canada Recruiting Mission",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Canada Recruiting Mission",
+      "img": "https://i.picsum.photos/id/868/400/200.jpg",
+      "type": "RecruitingMission",
+      "premiumOnly": false,
+      "date": "07-30-2020",
+      "deadline":"07-25-2020"
+    },
+    {
+      "id": 4,
+      "title": "VanHackathon",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Online Hackthon",
+      "img": "https://i.picsum.photos/id/870/400/200.jpg",
+      "type": "VanHackathon",
+      "premiumOnly": false,
+      "date": "08-10-2020",
+      "deadline":"08-05-2020"
+    },
+    {
+      "id": 5,
+      "title": "Premium-only Webinar",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Premium-only Webinar",
+      "img": "https://i.picsum.photos/id/871/400/200.jpg",
+      "type": "PremiumOnlyWebinar",
+      "premiumOnly": true,
+      "date": "08-15-2020",
+      "deadline":"08-10-2020"
+    },
+    {
+      "id": 6,
+      "title": "Open Webinar",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Open Webinar",
+      "img": "https://i.picsum.photos/id/872/400/200.jpg",
+      "type": "OpenWebinar",
+      "premiumOnly": false,
+      "date": "08-25-2020",
+      "deadline":"08-15-2020"
+    },
+    {
+      "id": 7,
+      "title": "Amsterdam Leap",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Amsterdam Leap",
+      "img": "https://i.picsum.photos/id/873/400/200.jpg",
+      "type": "Leap",
+      "premiumOnly": false,
+      "date": "08-30-2020",
+      "deadline":"08-25-2020"
+    },
+    {
+      "id": 8,
+      "title": "Virtual MeetUp",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Virtual MeetUp",
+      "img": "https://i.picsum.photos/id/874/400/200.jpg",
+      "type": "MeetUp",
+      "premiumOnly": false,
+      "date": "09-05-2020",
+      "deadline":"09-01-2020"
+    },
+    {
+      "id": 9,
+      "title": "Berlin Leap",
+      "desc": "Short Desc...",
+      "fullDesc": "Full description for Berlin Leap",
+      "img": "https://i.picsum.photos/id/874/400/200.jpg",
+      "type": "Leap",
+      "premiumOnly": false,
+      "date": "09-10-2020",
+      "deadline":"09-05-2020"
+    }
+  ]
+}
