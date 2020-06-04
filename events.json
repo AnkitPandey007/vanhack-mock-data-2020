@@ -1,103 +1,184 @@
 {
   "events": [
-      {
+    {
       "id": 1,
-      "title": "Vancouver Leap",
-      "desc": "Short Desc...",
-      "fullDesc": "Full description for Vancouver Leap",
-      "img": "https://i.picsum.photos/id/866/400/200.jpg",
-      "type": "Leap",
-      "premiumOnly": false,
+      "title": "English Premium-only Webinar",
+      "desc": "Short Description",
+      "fullDesc": "Full description for English Premium-only Webinar",
+      "img": "https://i.picsum.photos/id/871/400/200.jpg",
+      "type": "PremiumOnlyWebinar",
+      "premiumOnly": true,
       "date": "07-15-2020",
-      "deadline":"07-10-2020"
+      "deadline": "07-10-2020",
+      "location": "Online"
     },
     {
       "id": 2,
-      "title": "Montreal MeetUp",
-      "desc": "Short Desc...",
-      "fullDesc": "Full description for Montreal Meetup",
-      "img": "https://i.picsum.photos/id/867/400/200.jpg",
-      "type": "MeetUp",
-      "premiumOnly": false,
-      "date": "07-25-2020",
-      "deadline":"07-20-2020"
+      "title": "Interview Premium-only Webinar",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Interview Premium-only Webinar",
+      "img": "https://i.picsum.photos/id/866/400/200.jpg",
+      "type": "PremiumOnlyWebinar",
+      "premiumOnly": true,
+      "date": "08-19-2020",
+      "deadline": "08-11-2020",
+      "location": "Online"
     },
     {
       "id": 3,
-      "title": "VanHack Canada Recruiting Mission",
-      "desc": "Short Desc...",
-      "fullDesc": "Full description for Canada Recruiting Mission",
+      "title": "Vancouver Leap",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Vancouver Leap",
+      "img": "https://i.picsum.photos/id/857/400/200.jpg",
+      "type": "Leap",
+      "premiumOnly": false,
+      "date": "07-16-2020",
+      "deadline": "07-11-2020",
+      "location": "Vancouver"
+    },
+    {
+      "id": 4,
+      "title": "Montreal MeetUp",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Montreal Meetup",
+      "img": "https://i.picsum.photos/id/852/400/200.jpg",
+      "type": "MeetUp",
+      "premiumOnly": false,
+      "date": "07-25-2020",
+      "deadline": "07-20-2020",
+      "location": "Montreal"
+    },
+    {
+      "id": 5,
+      "title": "Toronto Recruiting Mission",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Toronto Recruiting Mission",
       "img": "https://i.picsum.photos/id/868/400/200.jpg",
       "type": "RecruitingMission",
       "premiumOnly": false,
       "date": "07-30-2020",
-      "deadline":"07-25-2020"
+      "deadline": "07-25-2020",
+      "location": "Toronto"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "VanHackathon",
-      "desc": "Short Desc...",
+      "desc": "Short Description",
       "fullDesc": "Full description for Online Hackthon",
       "img": "https://i.picsum.photos/id/870/400/200.jpg",
       "type": "VanHackathon",
       "premiumOnly": false,
-      "date": "08-10-2020",
-      "deadline":"08-05-2020"
+      "date": "08-13-2020",
+      "deadline": "08-05-2020",
+      "location": "Online"
     },
     {
-      "id": 5,
-      "title": "Premium-only Webinar",
-      "desc": "Short Desc...",
+      "id": 7,
+      "title": "JavaScript Premium-only Webinar",
+      "desc": "Short Description",
       "fullDesc": "Full description for Premium-only Webinar",
-      "img": "https://i.picsum.photos/id/871/400/200.jpg",
+      "img": "https://i.picsum.photos/id/859/400/200.jpg",
       "type": "PremiumOnlyWebinar",
       "premiumOnly": true,
-      "date": "08-15-2020",
-      "deadline":"08-10-2020"
+      "date": "08-16-2020",
+      "deadline": "08-12-2020",
+      "location": "Online"
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Open Webinar",
-      "desc": "Short Desc...",
+      "desc": "How to serach a Job",
       "fullDesc": "Full description for Open Webinar",
       "img": "https://i.picsum.photos/id/872/400/200.jpg",
       "type": "OpenWebinar",
       "premiumOnly": false,
       "date": "08-25-2020",
-      "deadline":"08-15-2020"
+      "deadline": "08-17-2020",
+      "location": "Online"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Amsterdam Leap",
-      "desc": "Short Desc...",
+      "desc": "Short Description",
       "fullDesc": "Full description for Amsterdam Leap",
       "img": "https://i.picsum.photos/id/873/400/200.jpg",
       "type": "Leap",
       "premiumOnly": false,
       "date": "08-30-2020",
-      "deadline":"08-25-2020"
+      "deadline": "08-25-2020",
+      "location": "Amsterdam"
     },
     {
-      "id": 8,
-      "title": "Virtual MeetUp",
-      "desc": "Short Desc...",
-      "fullDesc": "Full description for Virtual MeetUp",
-      "img": "https://i.picsum.photos/id/874/400/200.jpg",
-      "type": "MeetUp",
-      "premiumOnly": false,
-      "date": "09-05-2020",
-      "deadline":"09-01-2020"
-    },
-    {
-      "id": 9,
+      "id": 10,
       "title": "Berlin Leap",
-      "desc": "Short Desc...",
+      "desc": "Short Description",
       "fullDesc": "Full description for Berlin Leap",
       "img": "https://i.picsum.photos/id/874/400/200.jpg",
       "type": "Leap",
       "premiumOnly": false,
       "date": "09-10-2020",
-      "deadline":"09-05-2020"
+      "deadline": "09-05-2020",
+      "location": "Berlin"
+    },
+    {
+      "id": 11,
+      "title": "VanHackathon 2.0",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Online Hackthon 2.0",
+      "img": "https://i.picsum.photos/id/860/400/200.jpg",
+      "type": "VanHackathon",
+      "premiumOnly": false,
+      "date": "08-10-2020",
+      "deadline": "08-05-2020",
+      "location": "Vancouver"
+    },
+    {
+      "id": 12,
+      "title": "Toronto Recruiting Mission",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Toronto Recruiting Mission",
+      "img": "https://i.picsum.photos/id/853/400/200.jpg",
+      "type": "RecruitingMission",
+      "premiumOnly": false,
+      "date": "07-30-2020",
+      "deadline": "07-25-2020",
+      "location": "Toronto"
+    },
+    {
+      "id": 13,
+      "title": "India Recruiting Mission",
+      "desc": "Short Description",
+      "fullDesc": "Full description for India Recruiting Mission",
+      "img": "https://i.picsum.photos/id/856/400/200.jpg",
+      "type": "RecruitingMission",
+      "premiumOnly": false,
+      "date": "07-30-2020",
+      "deadline": "07-25-2020",
+      "location": "India"
+    },
+    {
+      "id": 14,
+      "title": "VanHackathon 3.0",
+      "desc": "Short Description",
+      "fullDesc": "Full description for Online Hackthon 3.0",
+      "img": "https://i.picsum.photos/id/861/400/200.jpg",
+      "type": "VanHackathon",
+      "premiumOnly": false,
+      "date": "08-15-2020",
+      "deadline": "08-05-2020",
+      "location": "online"
+    },
+    {
+      "id": 15,
+      "title": "India Leap",
+      "desc": "Short Description",
+      "fullDesc": "Full description for India Leap",
+      "img": "https://i.picsum.photos/id/862/400/200.jpg",
+      "type": "Leap",
+      "premiumOnly": false,
+      "date": "09-10-2020",
+      "deadline": "09-05-2020",
+      "location": "India"
     }
   ]
 }
